@@ -5,5 +5,5 @@ def looping
 	#your code here
 end
 
-d
+looping
 #call your method here
